@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PretziDizzy
 - 👀 I’m interested in learning to JS
-- 🌱 I’m currently learning CLI and Git
+- 🌱 I aspire to be a Full Stack Java Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
