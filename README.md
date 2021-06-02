@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PretziDizzy
-- 👀 I’m interested in learning JavaScript.
+- 👀 I’m interested in learning Java.
 - 🌱 I aspire to be a Full Stack Java Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
